@@ -547,8 +547,9 @@ body {
     justify-content: space-around;
     display: flex;
     align-items: center;
-    float: right;
+    width: 1000px;
     margin-top: 20px;
+    margin-left: 300px;
     margin-bottom: 50px;
 
 }
